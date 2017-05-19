@@ -1,5 +1,7 @@
 # Final Exam HTML/CSS Practice 2
 
+*This tutorial provides links to certain helpful documents, and on the final exam you will be free to refer to outside sources such as the Mozilla Developer Network, Khan Academy, and your own previous work if you want. I will not answer specific questions about the content, but I will tell you if you've made a mistake when you finish each section if you raise your hand and ask me to check.*
+
 ## Setup (10 points)
 
 1. Go to https://github.com/chapelfield/final-exam-html-css-practice-2 and fork the repository.
@@ -32,7 +34,7 @@
 4. Change the [font size](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size) and [line height](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height) to `1.5em`.
 5. Create a new block (or [ruleset](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics#Anatomy_of_a_CSS_ruleset) for the `img` [selector](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics#Anatomy_of_a_CSS_ruleset) below the `body` [selector](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics#Anatomy_of_a_CSS_ruleset). Remember to include all the curly braces and punctuation needed.
 6. Inside the `img` [ruleset](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics#Anatomy_of_a_CSS_ruleset), set the [maximum width](https://developer.mozilla.org/en-US/docs/Web/CSS/@viewport/max-width) to `80%` and the [margins](https://developer.mozilla.org/en-US/docs/Web/CSS/margin?v=example) to `auto`.
-8. Commit your changes.
+7. Commit your changes.
 
 ## Turn In (10 points)
 
