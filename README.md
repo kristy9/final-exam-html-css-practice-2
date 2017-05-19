@@ -7,24 +7,23 @@
 1. Go to https://github.com/chapelfield/final-exam-html-css-practice-2 and fork the repository.
 2. Open your fork of the repository in a new tab.
 
-## Content (80 points)
+## Content (60 points)
 
 *Unless told otherwise, all instructions for this section apply to `index.html`.*
 
 1. Open and edit `index.html`.
-2. Change the page title to "Final Exam HTML/CSS Practice 2".
-3. Change the first page heading to "Final Exam HTML/CSS Practice 2".
-4. Underneath the first heading there should be three paragraphs. However, right now only one is formatted correctly. Add [paragraph tags](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p) where necessary to make the three paragraphs appear correctly. Remember that each paragraph should be on its own line with no empty lines between.
-5. There is a second [heading](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements) on line 14. We want it to be smaller. Change it to `<h2>`. Don't forget to change both the opening and closing tags.
-6. Go to http://lipsum.com/ and scroll down until you see the heading "Where can I get some?" Change the number of paragraphs to 4 instead of 5 and click "Generate Lorem Ipsum".
+2. Change the page title and the first page heading to "Final Exam HTML/CSS Practice 2".
+3. Underneath the first heading there should be three paragraphs. However, right now only one is formatted correctly. Add [paragraph tags](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p) where necessary to make the three paragraphs appear correctly. Remember that each paragraph should be on its own line with no empty lines between.
+4. There is a second [heading](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements) on line 14. We want it to be smaller. Change it to `<h2>`. Don't forget to change both the opening and closing tags.
+5. Go to http://lipsum.com/ and scroll down until you see the heading "Where can I get some?" Change the number of paragraphs to 4 instead of 5 and click "Generate Lorem Ipsum".
 
 ![](http://i.imgur.com/M9xOfbd.png)
 
-7. Copy and paste the resulting paragraphs of Latin text into your HTML, underneath "Do You Even Latin?". Make sure to surround each [paragraph element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p) with the correct tags. Remember that each paragraph should be on its own line with no empty lines between.
-8. Add an [image element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img) after the last paragraph and add the link to [this GIF](https://media.tenor.co/images/a27293d4c69a27cb2b258c4433ba83da/raw) in the appropriate place *inside* the `<img>` tag.
-9. Commit your changes.
+6. Copy and paste the resulting paragraphs of Latin text into your HTML, underneath "Do You Even Latin?". Make sure to surround each [paragraph element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p) with the correct tags. Remember that each paragraph should be on its own line with no empty lines between.
+7. Add an [image element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img) after the last paragraph and add the link to [this GIF](https://media.tenor.co/images/a27293d4c69a27cb2b258c4433ba83da/raw) in the appropriate place *inside* the `<img>` tag.
+8. Commit your changes.
 
-## Style (60 points)
+## Style (50 points)
 
 *Unless told otherwise, all instructions for this section apply to `style.css`.*
 
