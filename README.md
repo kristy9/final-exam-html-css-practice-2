@@ -23,7 +23,7 @@
 7. Add an [image element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img) after the last paragraph and add the link to [this GIF](https://media.tenor.co/images/a27293d4c69a27cb2b258c4433ba83da/raw) in the appropriate place *inside* the `<img>` tag.
 8. Commit your changes.
 
-## Style (50 points)
+## Style (60 points)
 
 *Unless told otherwise, all instructions for this section apply to `style.css`.*
 
@@ -33,7 +33,8 @@
 4. Change the [font size](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size) and [line height](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height) to `1.5em`.
 5. Create a new block (or [ruleset](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics#Anatomy_of_a_CSS_ruleset) for the `img` [selector](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics#Anatomy_of_a_CSS_ruleset) below the `body` [selector](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics#Anatomy_of_a_CSS_ruleset). Remember to include all the curly braces and punctuation needed.
 6. Inside the `img` [ruleset](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics#Anatomy_of_a_CSS_ruleset), set the [maximum width](https://developer.mozilla.org/en-US/docs/Web/CSS/@viewport/max-width) to `80%` and the [margins](https://developer.mozilla.org/en-US/docs/Web/CSS/margin?v=example) to `auto`.
-7. Commit your changes.
+7. Inside the `img` [ruleset](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics#Anatomy_of_a_CSS_ruleset), create the [`display` property](https://developer.mozilla.org/en-US/docs/Web/CSS/display?v=example) and set its value as `block`.
+7. Commit your changes. [Your finished website should look like this one.](https://jackivan88.github.io/final-exam-html-css-practice-2/)
 
 ## Turn In (10 points)
 
