@@ -10,16 +10,16 @@
 *Unless told otherwise, all instructions for this section apply to `index.html`.*
 
 1. Open and edit `index.html`.
-2. Change the `<title>` of the page to "Final Exam HTML/CSS Practice 2".
-3. Change the first `<h1>` of the page to "Final Exam HTML/CSS Practice 2".
-4. Underneath the first `<h1>` there should be three paragraphs. However, right now only one is formatted correctly. Add `<p>` and `</p>` tags where necessary (two of each) in order to make the three paragraphs appear correctly. Remember that each paragraph should be on its own line with no empty lines between.
-5. There is another `<h1>` on line 14. We want it to be smaller. Change it to `<h2>`. Don't forget to change both the opening and closing tags.
+2. Change the page title to "Final Exam HTML/CSS Practice 2".
+3. Change the first page heading to "Final Exam HTML/CSS Practice 2".
+4. Underneath the first heading there should be three paragraphs. However, right now only one is formatted correctly. Add [paragraph tags](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p) where necessary to make the three paragraphs appear correctly. Remember that each paragraph should be on its own line with no empty lines between.
+5. There is a second [heading](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements) on line 14. We want it to be smaller. Change it to `<h2>`. Don't forget to change both the opening and closing tags.
 6. Go to http://lipsum.com/ and scroll down until you see the heading "Where can I get some?" Change the number of paragraphs to 4 instead of 5 and click "Generate Lorem Ipsum".
 
 ![](http://i.imgur.com/M9xOfbd.png)
 
-7. Copy and paste the resulting paragraphs of Latin text into your HTML, underneath "Do You Even Latin?". Make sure to surround each paragraph of text with `<p>` and `</p>` tags. Remember that each paragraph should be on its own line with no empty lines between.
-8. Add an `<img src="">` element after the last paragraph and add the link to [this GIF](https://media.tenor.co/images/a27293d4c69a27cb2b258c4433ba83da/raw) in the appropriate place *inside* the `<img>` tag.
+7. Copy and paste the resulting paragraphs of Latin text into your HTML, underneath "Do You Even Latin?". Make sure to surround each [paragraph element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p) with the correct tags. Remember that each paragraph should be on its own line with no empty lines between.
+8. Add an [image element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img) after the last paragraph and add the link to [this GIF](https://media.tenor.co/images/a27293d4c69a27cb2b258c4433ba83da/raw) in the appropriate place *inside* the `<img>` tag.
 9. Commit your changes.
 
 ## Style (60 points)
@@ -27,12 +27,11 @@
 *Unless told otherwise, all instructions for this section apply to `style.css`.*
 
 1. Open and edit `style.css`.
-2. Change the value of the `background-color` property to `gainsboro`.
-3. Change the value of the `font-family` property to `serif`.
-4. Change the value of the `font-size` and `line-height` properties to `1.5em`.
-5. Create a new block for the `img` element below the `body` block. Remember to include all the curly braces and punctuation needed.
-6. Inside the `img` block, add a `max-width` property and set its value to `80%`.
-7. Inside the `img` block, add a `margin` property and set its value to `auto`.
+2. Change the [background color](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color) to `gainsboro`.
+3. Change the [font family](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family) to `serif`.
+4. Change the [font size](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size) and [line height](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height) to `1.5em`.
+5. Create a new block (or [ruleset](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics#Anatomy_of_a_CSS_ruleset) for the `img` [selector](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics#Anatomy_of_a_CSS_ruleset) below the `body` [selector](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics#Anatomy_of_a_CSS_ruleset). Remember to include all the curly braces and punctuation needed.
+6. Inside the `img` [ruleset](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics#Anatomy_of_a_CSS_ruleset), set the [maximum width](https://developer.mozilla.org/en-US/docs/Web/CSS/@viewport/max-width) to `80%` and the [margins](https://developer.mozilla.org/en-US/docs/Web/CSS/margin?v=example) to `auto`.
 8. Commit your changes.
 
 ## Turn In (10 points)
